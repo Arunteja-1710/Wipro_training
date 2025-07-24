@@ -1,0 +1,15 @@
+C:\Users\mekar\Documents\wiprotraining\day5\collections\bin\Debug\net9.0\collections.exe
+C:\Users\mekar\Documents\wiprotraining\day5\collections\bin\Debug\net9.0\collections.deps.json
+C:\Users\mekar\Documents\wiprotraining\day5\collections\bin\Debug\net9.0\collections.runtimeconfig.json
+C:\Users\mekar\Documents\wiprotraining\day5\collections\bin\Debug\net9.0\collections.dll
+C:\Users\mekar\Documents\wiprotraining\day5\collections\bin\Debug\net9.0\collections.pdb
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.AssemblyInfoInputs.cache
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.AssemblyInfo.cs
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.sourcelink.json
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.dll
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\refint\collections.dll
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.pdb
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\collections.genruntimeconfig.cache
+C:\Users\mekar\Documents\wiprotraining\day5\collections\obj\Debug\net9.0\ref\collections.dll
